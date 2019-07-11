@@ -1,0 +1,15 @@
+{
+    "name": "backend-server",
+    "version": "1.0.0",
+    "description": "servidor backend appweb elsuburbio\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Ccrokis elsubu\u001b[28~rbio",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "doctordulitel",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
